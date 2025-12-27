@@ -63,6 +63,7 @@ export default function Footer() {
             </ul>
           </div>
 {/* .. */}
+{/* .. */}
           {/* Delivery Info */}
           <div>
             <h3 className="text-[#fbbf24] font-bold text-lg mb-4">Delivery</h3>
