@@ -53,7 +53,7 @@ export default function AboutPage() {
           transition={{ duration: 0.8 }}
           className="relative z-10 text-center px-4 max-w-4xl"
         >
-          <h1 className="text-5xl md:text-7xl font-bold text-white mb-6">
+          <h1 className="text-5xl pt-[106px] md:pt-[70px] md:text-7xl font-bold text-white mb-6">
             About <span className="text-[#fbbf24]">Butt G Fast Foods</span>
           </h1>
           <p className="text-xl md:text-2xl text-gray-300">

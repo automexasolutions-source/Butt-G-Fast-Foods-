@@ -128,7 +128,7 @@ export default function Hero() {
           className="mb-8"
         >
           <motion.div
-            className="text-[#fbbf24] font-bold text-6xl md:text-8xl mb-4 tracking-tighter"
+            className="text-[#fbbf24] pt-[199px] md:pt-[88px] font-bold text-6xl md:text-8xl mb-4 tracking-tighter"
             animate={{
               textShadow: [
                 "0 0 20px rgba(251, 191, 36, 0.5)",
